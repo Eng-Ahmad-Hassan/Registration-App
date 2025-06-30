@@ -1,0 +1,41 @@
+# Ignore Gradle build output directories
+/build/
+/app/build/
+/data/build/
+/domain/build/
+
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore local configuration files
+local.properties
+
+# Ignore generated files
+*.apk
+*.ap_ 
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx

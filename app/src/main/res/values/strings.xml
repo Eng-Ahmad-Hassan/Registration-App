@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="ellipsis">...</string>
+
+    <!-- UserFormScreen -->
+    <string name="user_registration">User Registration</string>
+    <string name="view_users">View Users</string>
+    <string name="required_fields">Required Fields</string>
+    <string name="form_requirements">• Full name and job title must contain letters\n• Age must be between 18-60 years</string>
+    <string name="full_name">Full Name</string>
+    <string name="full_name_placeholder">Enter your full name</string>
+    <string name="age">Age</string>
+    <string name="age_placeholder">Enter your age (18-60)</string>
+    <string name="job_title">Job Title</string>
+    <string name="job_title_placeholder">Enter your job title</string>
+    <string name="gender">Gender</string>
+    <string name="saving">Saving...</string>
+    <string name="save_user">Save User</string>
+    <string name="please_fix_issues">Please fix the following issues:</string>
+    <string name="full_name_issue">• Full name: %1$s</string>
+    <string name="age_issue">• Age: %1$s</string>
+    <string name="job_title_issue">• Job title: %1$s</string>
+    <string name="valid_label">✓ Valid %1$s</string>
+    <string name="valid">Valid</string>
+    <string name="required_asterisk">*</string>
+    <string name="invalid_format">Invalid format</string>
+    <string name="invalid_age">Invalid age</string>
+
+    <!-- UserListScreen -->
+    <string name="registered_users">Registered Users</string>
+    <string name="add_user">Add User</string>
+    <string name="loading_users">Loading users...</string>
+    <string name="no_users">No users registered yet</string>
+    <string name="add_first_user">Add your first user to get started</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="years_old_job">%1$d years old • %2$s</string>
+    <string name="delete_user">Delete user</string>
+    <string name="delete_user_title">Delete User</string>
+    <string name="delete_user_message">Are you sure you want to delete %1$s? This action cannot be undone.</string>
+    <string name="yes_delete">Yes, Delete</string>
+    <string name="no_keep">No, Keep</string>
+
+    <!-- Validation/Error messages (ViewModel, State) -->
+    <string name="unknown_error">Unknown error occurred</string>
+    <string name="failed_delete">Failed to delete user</string>
+    <string name="failed_save">Failed to save user: %1$s</string>
+    <string name="full_name_required">Full name is required</string>
+    <string name="full_name_min_length">Full name must be at least 2 characters</string>
+    <string name="full_name_numbers_only">Full name cannot be numbers only</string>
+    <string name="full_name_letters">Full name must contain letters</string>
+    <string name="age_required">Age is required</string>
+    <string name="age_valid_number">Age must be a valid number</string>
+    <string name="age_min">Age %1$d is not eligible for work (minimum 18)</string>
+    <string name="age_max">Age %1$d is not eligible for work (maximum 60)</string>
+    <string name="job_title_required">Job title is required</string>
+    <string name="job_title_min_length">Job title must be at least 2 characters</string>
+    <string name="job_title_numbers_only">Job title cannot be numbers only</string>
+    <string name="job_title_letters">Job title must contain letters</string>
+</resources>

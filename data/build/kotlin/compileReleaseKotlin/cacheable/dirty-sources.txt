@@ -1,0 +1,6 @@
+C:\Users\pc\AndroidStudioProjects\Interview\1\Madarsoft\data\src\main\java\com\madarsoft\registrationapp\data\local\AppDatabase.kt
+C:\Users\pc\AndroidStudioProjects\Interview\1\Madarsoft\data\src\main\java\com\madarsoft\registrationapp\data\local\entity\UserEntity.kt
+C:\Users\pc\AndroidStudioProjects\Interview\1\Madarsoft\data\src\main\java\com\madarsoft\registrationapp\data\di\DataModule.kt
+C:\Users\pc\AndroidStudioProjects\Interview\1\Madarsoft\data\src\main\java\com\madarsoft\registrationapp\data\repository\UserRepositoryImpl.kt
+C:\Users\pc\AndroidStudioProjects\Interview\1\Madarsoft\data\src\main\java\com\madarsoft\registrationapp\data\local\converter\GenderConverter.kt
+C:\Users\pc\AndroidStudioProjects\Interview\1\Madarsoft\data\src\main\java\com\madarsoft\registrationapp\data\local\dao\UserDao.kt
